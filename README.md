@@ -13,3 +13,8 @@ http://localhost:8080 to connect on mobile use ip of the device running the scri
 
 To close press ctrl-c
 ```conda deactivate``` to remove environment
+
+[Support on Patreon](https://patreon.com/junesiphone)
+
+
+![Screenshot](https://raw.githubusercontent.com/JunesiPhone/OobaChatPython/main/screenshot.png)
