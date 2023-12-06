@@ -12,4 +12,4 @@ python app.py
 http://localhost:8080 to connect on mobile use ip of the device running the script 192.168.x.x:8080
 
 To close press ctrl-c
-```conda deactivate`````` to remove environment
+```conda deactivate``` to remove environment
